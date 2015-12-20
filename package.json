@@ -1,0 +1,19 @@
+{
+  "name": "jst",
+  "bin": {
+    "jst": "jst/clist/jst.js"
+  },
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=5.0.0",
+    "npm": ">=3.3.7"
+  },
+  "devDependencies": {
+    "longjohn": "^0.2.11"
+  },
+  "dependencies": {
+    "docopt": "^0.6.2",
+    "esprima": "^2.7.1"
+  },
+  "license": "MIT"
+}
