@@ -14,7 +14,8 @@
   "dependencies": {
     "babel-polyfill": "^6.3.14",
     "docopt": "^0.6.2",
-    "esprima": "^2.7.1"
+    "esprima": "^2.7.1",
+    "is": "rgrannell1/is"
   },
   "license": "MIT"
 }
