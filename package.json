@@ -15,7 +15,8 @@
     "babel-polyfill": "^6.3.14",
     "docopt": "^0.6.2",
     "esprima": "^2.7.1",
-    "is": "rgrannell1/is"
+    "is": "rgrannell1/is",
+    "s-expression": "^3.0.3"
   },
   "license": "MIT"
 }
